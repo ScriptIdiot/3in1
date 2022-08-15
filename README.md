@@ -28,9 +28,7 @@
 # AT THE END:
 #### all the techs that are used here are already discussed in earlier repos, however in case of any problems, please report it as issue and i will be at your service ...
 
-<h6 align="center"> <i>#                                   STAY TUNED FOR MORE</i>  </h6> 
 
-![120064592-a5c83480-c075-11eb-89c1-78732ecaf8d3](https://gitlab.com/ORCA666/kcthijack/-/raw/main/images/PP.png)
 
 
 
